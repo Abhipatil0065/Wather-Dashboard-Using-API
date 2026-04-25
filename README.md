@@ -73,4 +73,7 @@ Power BI
 REST API Integration
 Data Transformation
 Data Visualization# Wather-Dashboard-Using-API
-![Dashboard priview](https://github.com/Abhipatil0065/Wather-Dashboard-Using-API/blob/main/Weather%20Dashboard%20With%20API.pbix)
+
+
+
+![Dashboard priview](https://github.com/Abhipatil0065/Spotify-Analysis-Dashboard/blob/main/spotify%20data%20analysis.png)
