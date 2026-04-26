@@ -9,6 +9,8 @@ Difficulty in tracking forecast trends, air quality, and rain probability in one
 
 There is a need for a real-time, interactive dashboard that simplifies weather insights using live data.
 
+
+
 2. Goal of the Dashboard
 
 The objective of this dashboard is to:
@@ -38,12 +40,15 @@ Shows daily sunrise and sunset timings
 
 🌫️ Gauge Chart (Air Quality Index - AQI)
 Displays AQI level (PH10)
+
 👉 Helps users quickly assess air pollution severity
 
 📊 KPI Indicators (Air Pollutants)
 PH10, SO2, CO, NO2, PM2.5, O3
 
 👉 Provides detailed air quality breakdown
+
+
 📊 Bar Chart (Chance of Rain)
 
 Shows rain probability (%) across days
